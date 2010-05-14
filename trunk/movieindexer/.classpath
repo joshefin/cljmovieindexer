@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/zeljko/workspace/movieindexer/classes"/>
+	<classpathentry kind="lib" path="lib/clojure-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/clojure-contrib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/zeljko/workspace/movieindexer/lib/core-renderer-R8pre2.jar"/>
+	<classpathentry kind="lib" path="/home/zeljko/workspace/movieindexer/lib/hiccup-0.2.4.jar"/>
+	<classpathentry kind="lib" path="/home/zeljko/workspace/movieindexer/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/zeljko/workspace/movieindexer/lib/mail-1.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
