@@ -1,0 +1,128 @@
+/*
+
+@page { 
+	size: A4 portrait;
+	margin: 0.00in;
+	padding: 0em;
+}
+
+*/
+
+body {
+     margin: 0;
+     padding: 0;
+     background: #fff url(cid:pattern2.gif) repeat;
+     color: #666;
+     font-family: "Verdana", Lucida, Verdana, sans-serif;
+     font-size: 11px;
+     /* line-height: 1.5em; */
+	 text-align: center;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+strong {
+	font-weight: normal;
+    color: #fff;
+}
+
+h1 {
+	font-size: 12px;
+    font-weight: normal;
+    color: #000;
+    margin: 0 0 5px 0;
+}
+
+sup {
+	color: #fff;
+    font-size: 8px;
+}
+
+img {
+    border: 0;
+}
+
+#content_center {
+    position: relative; 
+    width: 604px;
+    margin: auto;
+    text-align: left;
+ }
+ 
+#maincontent {
+    float: left;
+    background-color: #fff;
+    border-left: 2px solid #616161;
+    border-right: 2px solid #616161;
+    border-bottom: 2px solid #616161;
+    margin-bottom: 30px;
+ }
+
+.header {
+    width: 600px;
+    background: #222 url(cid:pattern1.gif) repeat;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+.header h1 {
+    color: #888;
+    font-family: Georgia, serif;
+    font-style: oblique;
+    font-size: 3em;
+    font-weight: bold;
+}
+.header p {
+    color: #666;
+    font-family: Georgia, serif;
+    font-style: oblique;
+    font-size: 1.5em;
+}
+
+.subheader {
+    float: left; 
+    background-color: #dfe9f7; 
+    border-bottom: 1px solid #bbb;
+    width: 600px; 
+    text-align: center;
+    color: #000;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.subheader span {
+    color: #888;
+}
+
+.cover {
+    text-align: center;
+}
+
+.details {
+    float: left; 
+    padding-top: 10px; 
+    border-bottom: 1px solid #bbb; 
+    background: #fff url(cid:inner_sh.gif) repeat-x;
+    line-height: 1.5em;
+}
+.details_text {
+    margin: 15px 20px;
+    float: left;
+    width: 95%;
+}
+.details_column {
+    width: 260px;
+    float: left;
+    margin: 15px 20px;
+}
+
+.footer {
+     padding: 10px 0;
+     text-align: center;
+     font-size: 11px;
+     float: left;
+     width: 600px;
+     margin: auto;
+     background-color: #fff;
+ }
